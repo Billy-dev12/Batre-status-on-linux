@@ -78,3 +78,4 @@ batre_status/
 - Program ini hanya berjalan di laptop/PC yang memiliki baterai (BAT0).
 - Jika tidak ada baterai, program akan menampilkan "Tidak Diketahui" pada beberapa field.
 - Untuk menentukan path baterai yang benar, bisa cek `/sys/class/power_supply/` dan sesuaikan jika baterai kamu bukan `BAT0`.
+- Untuk pengguna linux saja :)
